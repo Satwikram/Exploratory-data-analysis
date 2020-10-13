@@ -1,5 +1,5 @@
 # Exploratory-data-analysis
-## Open source notebooks for data analyisis
+## Open source notebooks for data analysis
 ## Contents:
 1. numpy
 2. pandas
